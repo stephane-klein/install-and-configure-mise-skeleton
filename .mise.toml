@@ -1,0 +1,5 @@
+[env]
+_.source = "./.envrc.sh"
+
+[tools]
+direnv = "2.32.1"
