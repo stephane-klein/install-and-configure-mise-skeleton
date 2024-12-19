@@ -1,2 +1,5 @@
 [env]
-_.source = "./.envrc.sh"
+_.source = { value = "./.envrc.sh", tools = true }
+
+[tools]
+terraform="1.9.8"
